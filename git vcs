@@ -1,0 +1,22 @@
+#version control system.
+1.what is version control system?
+>>The process of tracking the modification of a present code in the system is called version control system.
+
+>>they are two types of version control system.
+1.Distributed version control system.
+2.centralized version control system.
+>>
+1.Distributed version control system.
+  *It has two repositories.
+  *No need to internet.
+  *It has less secure.
+  *It works fater.
+  *There are high chances of merge conflits.
+   Example: git
+2.centralized version control system.
+  *It has only one repository
+  *It has must needed to internet.
+  *It works little bit slow.
+  *It is more secure.
+  *There are less chances of merge conflits.
+   Example: SVN
